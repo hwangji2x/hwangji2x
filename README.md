@@ -2,7 +2,7 @@
 
 <a href="https://velog.io/@hwangji2x" target="_blank"><img src="https://img.shields.io/badge/20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a>
 
-<a href="https://velog.io/@hwangji2x" target="_blank"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/>
+<a href="https://velog.io/@hwangji2x" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
