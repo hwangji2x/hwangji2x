@@ -1,6 +1,6 @@
 👋 Hi, I’m @hwangji2x 👋
 
-<a href="https://velog.io/@hwangji2x" target="_blank"><img src="https://img.shields.io/badge/20C997?style=for-the-badger&logo=Velog&logoColor=FFFFFF"/></a>
+<a href="https://velog.io/@hwangji2x" target="_blank"><img src="https://img.shields.io/badge/20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
